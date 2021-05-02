@@ -1,0 +1,3 @@
+import "old.proto";
+// You use definitions from old.proto and new.proto, but not other.proto
+
